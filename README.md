@@ -3,9 +3,9 @@
 )](https://github.com/adrianoifnmg/EstruturasDeDados2/tree/main/public) 
 [![image](https://img.shields.io/badge/WhatsApp-155b29?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://chat.whatsapp.com/BX65UXXM5E87TjS72CzxZt)
-[![image](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@estruturasdedados1) [![image](https://img.shields.io/badge/Calendário-3b71c6?style=for-the-badge&logo=GoogleCalendar&logoColor=white
-)](https://calendar.google.com/calendar/embed?src=1kcpaqfkjqjk7mj943baespn10@group.calendar.google.com&src=hhtmsj9epvmqsdpn27sfolp688@group.calendar.google.com&ctz=America%2FSao_Paulo) [![image](https://img.shields.io/badge/Links_Úteis-d88200?style=for-the-badge&logo=SitePoint&logoColor=white
+(https://calendar.google.com/calendar/embed?src=5f83920ed96d5ad54268f0007993acf2f6f42394310d5b631f7ec59d7fe1d8a1@group.calendar.google.com&src=hhtmsj9epvmqsdpn27sfolp688@group.calendar.google.com&ctz=America%2FSao_Paulo) [![image](https://img.shields.io/badge/Links_Úteis-d88200?style=for-the-badge&logo=SitePoint&logoColor=white
 )](#link-links-úteis)
+
 
 > **Objetivo Geral:** Capacitar o discente a compreender e aplicar algoritmos e estruturas de dados adequados à solução eficiente de problemas.
 <p align="center"><a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/logo_ED2.png"></a></p>
