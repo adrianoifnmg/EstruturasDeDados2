@@ -1,6 +1,6 @@
 # 🅴🆂🆃🆁🆄🆃🆄🆁🅰🆂 🅳🅴 🅳🅰🅳🅾🆂 ❷
 [![image](https://img.shields.io/badge/Arquivos-282358?style=for-the-badge&logo=PowerShell&logoColor=white
-)](https://github.com/adrianoifnmg/EstruturasDeDados2/tree/master/public) 
+)](https://github.com/adrianoifnmg/EstruturasDeDados2/tree/main/public) 
 [![image](https://img.shields.io/badge/WhatsApp-155b29?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://chat.whatsapp.com/BX65UXXM5E87TjS72CzxZt)
 [![image](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@estruturasdedados1) [![image](https://img.shields.io/badge/Calendário-3b71c6?style=for-the-badge&logo=GoogleCalendar&logoColor=white
