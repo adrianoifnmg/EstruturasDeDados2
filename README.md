@@ -17,7 +17,7 @@
 * Algoritmos de Ordenação Avançados
 * Estruturas de Dados Dinâmicas
 * Árvores e suas Generalizações
-* Tabelas Hash.
+* Tabelas Hash
 
 ## :computer: Ambiente
 
