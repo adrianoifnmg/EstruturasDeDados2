@@ -11,12 +11,12 @@
 <p align="center"><a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/logo_ED2.png"></a></p>
 
 ## :dart: Ementa
-* Introdução à Programação Estruturada com Linguagem C: Sintaxe, Tipos Primitivos de Dados, Estruturas Condicionais e de Repetição;
-* Estruturas de Dados Básicas, Arrays: Vetores e Matrizes, Structs; 
-* Algoritmos de Ordenação e Pesquisa; 
-* Modularização, Funções, Parâmetros e Recursividade; 
-* Alocação Dinâmica em Memória, Listas Encadeadas, Pilhas, Filas, Listas Circulares, Duplamente Encadeadas e outras Generalizações; 
-* Persistência em Arquivos de Dados.
+* Introdução à Análise de Algoritmos
+* Algoritmos Recursivos
+* Algoritmos de Ordenação Avançados
+* Estruturas de Dados Dinâmicas
+* Árvores e suas Generalizações
+* Tabelas Hash.
 
 ## :computer: Ambiente
 
