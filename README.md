@@ -7,11 +7,11 @@
 )](https://calendar.google.com/calendar/embed?src=1kcpaqfkjqjk7mj943baespn10@group.calendar.google.com&src=hhtmsj9epvmqsdpn27sfolp688@group.calendar.google.com&ctz=America%2FSao_Paulo) [![image](https://img.shields.io/badge/Links_Úteis-d88200?style=for-the-badge&logo=SitePoint&logoColor=white
 )](#link-links-úteis)
 
-> **Objetivo Geral:** Promover o desenvolvimento da abstração, raciocínio lógico e criatividade aplicados à concepção de algoritmos e estruturas de dados eficientes para resolução de problemas computacionais...
+> **Objetivo Geral:** Capacitar o discente a compreender e aplicar algoritmos e estruturas de dados adequados à solução eficiente de problemas.
 <p align="center"><a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/logo_ED2.png"></a></p>
 
 ## :dart: Ementa
-* Introdução à Análise de Algoritmos
+* Introdução à Análise de Complexidade de Algoritmos
 * Algoritmos Recursivos
 * Algoritmos de Ordenação Avançados
 * Estruturas de Dados Dinâmicas
