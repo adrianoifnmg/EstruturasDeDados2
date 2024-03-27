@@ -41,6 +41,7 @@
 ## :link: Links Úteis
 
 * [Replit - Compilador Online](https://replit.com/)
+* [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 * [Data Structure Animations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [xSortLab](https://math.hws.edu/eck/js/sorting/xSortLab.html)
 * [Sorting Animation](https://www.toptal.com/developers/sorting-algorithms)
