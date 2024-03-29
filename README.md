@@ -29,8 +29,7 @@
 
 * Prova 1 - 30 Pontos
 * Prova 2 - 30 Pontos
-* Prova 3 - 30 Pontos
-* Resolução de Exercícios - 10 Pontos
+* Trabalhos - 40 Pontos
 
 ## :books: Bibliografia
 
