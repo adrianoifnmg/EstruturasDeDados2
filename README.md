@@ -42,6 +42,7 @@
 * [Replit - Compilador Online](https://replit.com/)
 * [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 * [Projeto de Algoritmos](https://www.ime.usp.br/~pf/algoritmos/index.html)
+* [Análise de Algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/lectures.html)
 * [Data Structure Animations](https://cmps-people.ok.ubc.ca/ylucet/DS/Algorithms.html)
 * [Algol.dev](https://algol.dev/artigos/)
 * [xSortLab](https://math.hws.edu/eck/js/sorting/xSortLab.html)
