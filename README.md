@@ -12,10 +12,10 @@
 <p align="center"><a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/logo_ED2.png"></a></p>
 
 ## :dart: Ementa
-* Introdução à Análise de Complexidade de Algoritmos
+* Análise Assintótica da Complexidade de Algoritmos
 * Algoritmos Recursivos
 * Algoritmos de Ordenação Avançados
-* Estruturas de Dados Dinâmicas
+* Estruturas de Dados Dinâmicas e Genéricas
 * Árvores e suas Generalizações
 * Tabelas Hash
 
