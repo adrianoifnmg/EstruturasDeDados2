@@ -50,6 +50,8 @@
 * [Sorting Animation](https://www.toptal.com/developers/sorting-algorithms)
 * [Linked List Animation](https://www.cs.usfca.edu/~galles/visualization/QueueLL.html)
 * [Livro: Projeto de Algoritmos em C](https://www.ime.usp.br/~pf/algoritmos/index.html)
+* [Generic Linked List](https://github.com/philbot9/generic-linked-list/tree/master)
+* [Fluent Python: Internals of sets and dicts](https://www.fluentpython.com/extra/internals-of-sets-and-dicts/)
 * [Beecrowd - Maratona de Programação](https://www.beecrowd.com.br/judge/pt/login)
 
 ## [![vader](https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/vader2.gif)](#)
