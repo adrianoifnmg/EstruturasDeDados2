@@ -6,6 +6,10 @@ typedef struct no{
     int valor;
     struct no *esquerdo, *direito;
     int altura;
+    void* conteudo;
+	void(*inserir)();
+	void(*listar)();
+	void(*excluir)();
 }No;
 
 No* novoNo(int x) {
@@ -171,7 +175,7 @@ void imprimir (No* raiz, int nivel) {
         for(int i = 0; i < nivel; i++)
             printf("\t");
 
-        printf("%d", raiz->valor);
+        printf("%d", raiz->valor)
         imprimir(raiz->esquerdo, nivel + 1);
     }
 }
