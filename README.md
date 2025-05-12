@@ -14,8 +14,10 @@
 
 ## :dart: Ementa
 * Análise Assintótica da Complexidade de Algoritmos
-* Algoritmos Recursivos e Programação Dinâmica
+* Algoritmos Recursivos
+* Programação Dinâmica
 * Algoritmos de Ordenação Avançados
+* Alocação Dinâmica em Memória
 * Estruturas de Dados Dinâmicas e Genéricas
 * Árvores e suas Generalizações
 * Tabelas Hash
