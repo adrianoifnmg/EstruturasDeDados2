@@ -16,7 +16,7 @@
 * Análise Assintótica da Complexidade de Algoritmos
 * Algoritmos Recursivos
 * Programação Dinâmica
-* Algoritmos de Ordenação Avançados
+* Algoritmos Clássicos e de Ordenação Avançados
 * Alocação Dinâmica em Memória
 * Estruturas de Dados Dinâmicas e Genéricas
 * Árvores e suas Generalizações
