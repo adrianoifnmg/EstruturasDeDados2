@@ -33,7 +33,7 @@
 * Temas Individuais - 10 Pontos
 * Prova 1 - 30 Pontos
 * Prova 2 - 30 Pontos
-* Trabalhos - 30 Pontos
+* Trabalhos - 10 Pontos (x3)
 
 ## :books: Bibliografia
 
