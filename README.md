@@ -1,6 +1,6 @@
 # <a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/ed_logo.png" width="40"></a> Estruturas de Dados II
 
-[![image](https://img.shields.io/badge/Conteúdos_de_Aula-282358?style=for-the-badge&logo=PowerShell&logoColor=white
+[![image](https://img.shields.io/badge/Conteúdos_de_Aula-282358?style=for-the-badge&logo=googledocs&logoColor=white
 )](https://github.com/adrianoifnmg/EstruturasDeDados2/tree/main/public) 
 [![image](https://img.shields.io/badge/WhatsApp-155b29?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KmWAFDA2zmqLN9yklLvSNZ)
 [![image](https://img.shields.io/badge/Calendário-3b71c6?style=for-the-badge&logo=GoogleCalendar&logoColor=white
