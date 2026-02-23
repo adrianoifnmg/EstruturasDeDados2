@@ -30,10 +30,11 @@
 
 ## :memo: Avaliação
 
-* Temas Individuais - 10 Pontos
-* Prova 1 - 30 Pontos
-* Prova 2 - 30 Pontos
-* Trabalhos - 10 Pontos (x3)
+* Prova 1 - 25 Pontos (Teórica) 
+* Prova 2 - 25 Pontos (Prática) 
+* Prova 3 - 25 Pontos (Prática) 
+* Apresentações - 10 Pontos
+* Trabalhos - 15 Pontos
 
 ## :books: Bibliografia
 
