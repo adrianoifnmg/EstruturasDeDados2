@@ -30,11 +30,11 @@
 
 ## :memo: Avaliação
 
-* Prova 1 - 25 Pontos (Teórica) 
-* Prova 2 - 25 Pontos (Prática) 
-* Prova 3 - 25 Pontos (Prática) 
+* Prova 1 - 20 Pontos (Teórica) 
+* Prova 2 - 30 Pontos (Prática) 
+* Prova 3 - 30 Pontos (Prática) 
 * Apresentações - 10 Pontos
-* Trabalhos - 15 Pontos
+* Trabalhos - 10 Pontos
 
 ## :books: Bibliografia
 
